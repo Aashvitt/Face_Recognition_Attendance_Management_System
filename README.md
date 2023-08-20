@@ -128,6 +128,11 @@ Let's build the future together! 🚀🌟
 
 
 Let's Connect on LinkedIn & Twitter.
+- [LinkedIn](https://www.linkedin.com/in/aashvitt-singh)
+- [Twitter](https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09)
 
-LinkedIn : https://www.linkedin.com/in/aashvitt-singh
-Twitter : https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
