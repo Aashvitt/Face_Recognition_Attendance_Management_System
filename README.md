@@ -16,3 +16,8 @@ We invite contributions from developers, designers, and enthusiasts who share ou
 Let's build the future together! 🚀🌟
 
 Feel free to explore our documentation and dive into the codebase. Your feedback and contributions are highly appreciated.
+
+
+Let's Connect on LinkedIn & Twitter.
+LinkedIn : https://www.linkedin.com/in/aashvitt-singh
+Twitter : https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09
