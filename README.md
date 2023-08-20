@@ -1,4 +1,5 @@
-# Face_Recognition_Attendance_Management_System
+# Face Recognition Attendance Management System
+
 Welcome to the Face Recognition Attendance Management System repository! 📸✅  
 
 My name is Aashvitt Singh. This project is an advanced solution for efficient and accurate attendance management using state-of-the-art facial recognition technology. By leveraging the power of computer vision and machine learning, our system automates the attendance tracking process, eliminating the need for manual data entry and minimizing errors.
