@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:Aashvitt/Face_Recognition_Attendance_Management_System.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
